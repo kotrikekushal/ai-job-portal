@@ -1,0 +1,6 @@
+.env
+**pycache**/
+*.pyc
+venv/
+db.sqlite3
+data.json
